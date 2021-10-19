@@ -40,3 +40,12 @@ print(min(4,600))
 #printing with the round function, will allow you to round up to the nearest number!
 print(round(3.776))
 print(round(3.3))
+
+#printing the lowest number with floor function
+print(floor(3.7))
+
+#printing with ceil will print out the highest number/ it will round the number up
+print(ceil(3.7))
+
+#you may also print out the square root using the SQRT function
+print(sqrt(36))
