@@ -37,3 +37,7 @@ print(phrase[5])
 
 #you can also you something called the index function, it will tell you where something is located in the string
 print(phrase.index("a"))
+#print(phrase.index("z")) #will not work and will print an error because Z is not even there
+
+#you can also replace items in a string
+print(phrase.replace("Giraffe", "Samieh"))
