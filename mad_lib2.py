@@ -8,4 +8,4 @@ print(plural_noun +" are Blue")
 print("I love " + celebrity)
 print("I hate to " + verb)
 
-
+#end of this lesson
