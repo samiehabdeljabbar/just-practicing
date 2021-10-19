@@ -28,5 +28,12 @@ print(phrase.isupper())
 print(phrase.islower())
 print(phrase.upper().isupper())
 
-#printing the number of characters that is in a string using len()
+#printing the number/length of characters that is in a string using len()
 print(len(phrase))
+
+#what if you just wanted to grab a character from the string you are printing
+print(phrase[0])
+print(phrase[5])
+
+#you can also you something called the index function, it will tell you where something is located in the string
+print(phrase.index("a"))
