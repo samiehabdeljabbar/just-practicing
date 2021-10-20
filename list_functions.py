@@ -9,5 +9,10 @@ friends.extend(lucky_numbers)
 friends.append("Creed")
 #the insert function will take two values, one being the position, two being the name of the new string or variable you are inserting
 friends.insert(1, "Kelly")
+#the remove funtion will remove a string from the list
+friends.remove("Jim")
+
+#.clear will remove everyone from the lists
+#.pop will remove the last element from the list
 
 print(friends)
