@@ -2,7 +2,7 @@
 
 
 lucky_numbers = [4, 8, 15, 16, 23, 42]
-friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
+friends = ["Kevin", "Karen", "Jim","Jim","Jim", "Oscar", "Toby"]
 #the extend function will allow you to append a list with another list as well!
 friends.extend(lucky_numbers)
 #the append function will allow you to add a new variable into the list
@@ -14,5 +14,8 @@ friends.remove("Jim")
 
 #.clear will remove everyone from the lists
 #.pop will remove the last element from the list
-
+print(friends.index("Kevin"))
+print(friends.index("Toby"))
+print(friends.count("Jim"))
+#friends.sort()
 print(friends)
