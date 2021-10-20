@@ -1,4 +1,11 @@
 # just-practicing
+- 👋 Hi, I’m @samih-adam
+- 👀 I’m interested in Python...
+- 🌱 I’m currently learning Python fundementals ...
+- 💞️ I’m looking to collaborate on new projects...
+
+
+
 just practicing this three hour code course from freecodecamp
 
 My goal for this project is to complete the beginner and intermediate course in full, have all the notes and all the code that I tested here so that I can come back 
