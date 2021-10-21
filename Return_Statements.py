@@ -4,13 +4,18 @@
 # such as a string or a list
 
 
+#def cube(num):
+ #   return num*num*num
+
+#print(cube(7))
+
+#def cube2(num):
+ #   return num*num*num
+
+#print(cube2(4))
+
 def cube(num):
     return num*num*num
 
-print(cube(7))
-
-def cube2(num):
-    return num*num*num
-
-print(cube2(4))
-
+result = cube(4)
+print(result)
