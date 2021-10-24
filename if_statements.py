@@ -2,4 +2,5 @@
 
 is_male = True 
 
-if 
+if  is_male:
+    print("You are a male")
