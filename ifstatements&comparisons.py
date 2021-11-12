@@ -1,4 +1,11 @@
 #working on ifstatements and comparisons lesson
+# == means if its equal too
+# != means not equal too
+# >= greater than or equal too
+# <= less than or equal too
+# > greater than
+# < less than
+
 
 def max_num(num1, num2, num3):
     if num1 >= num2 and num1 >= num3:
@@ -8,4 +15,4 @@ def max_num(num1, num2, num3):
     else: 
         return num3
 
-print(max_num(3,4,5))
+print(max_num(30,4,5))
